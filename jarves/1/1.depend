@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556022956 source:c:\users\acer\desktop\jarves\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
